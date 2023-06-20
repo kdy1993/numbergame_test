@@ -1,4 +1,4 @@
-# 숫자 맞추기 게임
+# UP&DOWN 게임
 ![술게임1](https://github.com/kdy1993/numbergame_test/assets/70253615/698e5b42-ec70-42ad-b6d5-87f9ed794bb6)
 ![술게임2](https://github.com/kdy1993/numbergame_test/assets/70253615/0b069428-be79-4ca8-b15e-5299f43e96ca)
 ![술게임3](https://github.com/kdy1993/numbergame_test/assets/70253615/a44e0ff7-84a2-4f3a-be11-17ae8f804a61)
