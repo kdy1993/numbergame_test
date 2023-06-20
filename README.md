@@ -3,6 +3,7 @@
 ![술게임2](https://github.com/kdy1993/numbergame_test/assets/70253615/0b069428-be79-4ca8-b15e-5299f43e96ca)
 ![술게임3](https://github.com/kdy1993/numbergame_test/assets/70253615/a44e0ff7-84a2-4f3a-be11-17ae8f804a61)
 ![술게임4](https://github.com/kdy1993/numbergame_test/assets/70253615/95208994-dc16-45d8-bf55-3544eed2a094)
+![술게임5](https://github.com/kdy1993/numbergame_test/assets/70253615/a58bc329-a697-4279-b8cd-61ef71204a3e)
 
 술게임 Up Down에서 영감을 받은 프로젝트입니다.
 
